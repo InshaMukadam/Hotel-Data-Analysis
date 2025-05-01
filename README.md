@@ -30,7 +30,8 @@ The dashboard includes the following insights:
 
 
 ## 📷 Screenshots
-![Screenshot (4)](https://github.com/user-attachments/assets/5db3925a-d794-4caa-ab34-e4112aa372a6)
+![image](https://github.com/user-attachments/assets/f32e9deb-3c95-49bb-84df-9482e949e543)
+
 
 
 ##  Tools & Skills Used
